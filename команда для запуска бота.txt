@@ -1,0 +1,2 @@
+set FLASK_ENV=development
+flask run --port 80 --host 5.23.52.167
